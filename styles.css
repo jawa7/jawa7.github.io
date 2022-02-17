@@ -479,7 +479,7 @@
     }
 
     .services__card {
-        margin: 10px;
+        margin: 20px;
         height: 425px;
         width: 285px;
         border-radius: 4px;
@@ -517,11 +517,12 @@
    
     .services__card h2 {
         text-align: center;
+        margin-bottom: 16px;
     }
 
     .services__card p {
         text-align: center;
-        margin-top: 24px;
+        margin-top: 8px;
         font-size: 20px;
     }
 
